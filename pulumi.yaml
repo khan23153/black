@@ -1,0 +1,9 @@
+name: vm-azure-python
+
+runtime:
+
+  name: python
+
+  options:
+
+    virtualenv: venv
