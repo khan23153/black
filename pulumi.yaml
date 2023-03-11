@@ -1,5 +1,15 @@
-name: pulum
-runtime: yaml
-name: python
-options: 
-virtualenv: venv
+name: aws-apigateway-go-routes
+
+runtime: go
+
+description: Demonstration of API Gateway routes
+
+template:
+
+    config:
+
+      aws:region:
+
+        description: The AWS region to deploy into
+
+        default: us-east-2
