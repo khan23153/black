@@ -1,5 +1,5 @@
-name: vm-azure-python
-runtime:
+name: pulum
+runtime: 
 name: python
-options:
+options: 
 virtualenv: venv
