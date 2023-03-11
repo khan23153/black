@@ -1,5 +1,5 @@
 name: pulum
-runtime: 
+runtime: yaml
 name: python
 options: 
 virtualenv: venv
